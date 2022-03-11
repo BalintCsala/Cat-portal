@@ -1,0 +1,74 @@
+{
+    "url": "https://github.com/BalintCsala/ColoredEndPortals",
+    "name": "Colored end portal",
+    "description": "Changes the colors used in end portals",
+    "creator": "Bálint",
+    "creatorLink": "https://github.com/BalintCsala",
+    "thumbnail": "https://raw.githubusercontent.com/BalintCsala/ColoredEndPortals/main/pack.png",
+    "settings": [
+		{
+            "type": "constant",
+            "name": "BACKGROUND_COLOR",
+            "displayName": "Background color",
+            "format": "color",
+            "defaultValue": [0.022087, 0.098399, 0.110818],
+            "description": "The color of the background of end portals"
+        },
+        {
+            "type": "constant",
+            "name": "LAYER1",
+            "displayName": "First layer",
+            "format": "color",
+            "defaultValue": [0.080955, 0.314821, 0.661491],
+            "description": "First layer color, only visible in end gateways."
+        },
+        {
+            "type": "constant",
+            "name": "LAYER2",
+            "displayName": "Second layer",
+            "format": "color",
+            "defaultValue": [0.204675, 0.390010, 0.302066],
+            "description": "Second layer color."
+        },
+        {
+            "type": "constant",
+            "name": "LAYER3",
+            "displayName": "Third layer",
+            "format": "color",
+            "defaultValue": [0.047281, 0.315338, 0.321970],
+            "description": "Third layer color."
+        },
+        {
+            "type": "constant",
+            "name": "LAYER4",
+            "displayName": "Fourth layer",
+            "format": "color",
+            "defaultValue": [0.196766, 0.142899, 0.214696],
+            "description": "Fourth layer color."
+        },
+        {
+            "type": "constant",
+            "name": "LAYER5",
+            "displayName": "Fifth layer",
+            "format": "color",
+            "defaultValue": [0.070006, 0.243332, 0.235792],
+            "description": "Fifth layer color."
+        },
+        {
+            "type": "constant",
+            "name": "LAYER6",
+            "displayName": "Sixth layer",
+            "format": "color",
+            "defaultValue": [0.133516, 0.138278, 0.148582],
+            "description": "Sixth layer color."
+        },
+        {
+            "type": "constant",
+            "name": "LAYER7",
+            "displayName": "Seventh layer",
+            "format": "color",
+            "defaultValue": [0.097721, 0.110188, 0.187229],
+            "description": "Seventh layer color."
+        }
+    ]
+}
